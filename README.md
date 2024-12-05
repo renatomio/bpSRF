@@ -53,6 +53,9 @@ The following are the recommended specifications for 3D-printing:
 The recommended orientations for printing the parts are as follows:
 
 * **Finger components**
+<p align="center">
+  <img src="Figures/Finger_print.png" alt="The bpSRF" width=40% height=auto;/>
+</p>
 
 * **Wrist components**
 

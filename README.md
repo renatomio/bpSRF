@@ -1,7 +1,7 @@
 # bpSRF: An extra robotic finger powered by wrist movements
  Github site for the bpSRF, a body-powered supernumerary robotic finger that requires no electronic components.
 ## Project Overview
-This guide introduces the assembly and operation of the **Body-Powered Supernumerary Robotic Finger (bpSRF)**. The bpSRF is an innovative, lightweight device designed to enhance users' grasping capabilities by utilizing wrist movements to control an additional robotic finger. Unlike conventional SRFs, the bpSRF eliminates the need for electronic components and relies solely on body-powered mechanics. 
+This guide introduces the assembly and operation of the **Body-Powered Supernumerary Robotic Finger (bpSRF)**. The bpSRF is an lightweight device designed to enhance users' grasping capabilities by controlling an additional robotic finger using wrist movements. Unlike conventional SRFs, the bpSRF eliminates the need for electronic components and relies solely on body-powered mechanics. 
 The device is particularly suited for helping people with hand impairments that limit finger but not wrist movements. It is also an excellent tool for healthy individuals seeking to explore additional degrees of freedom and novel hand grasping patterns. The bpSRF is easily manufacturable using 3D printing, making it a cost-effective and replicable solution.
 
 <p align="center">

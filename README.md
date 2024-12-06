@@ -1,13 +1,18 @@
 # bpSRF: An extra robotic finger powered by wrist movements
- Github site for the bpSRF, a body-powered supernumerary robotic finger that requires no electronic components.
+ Github site for the bpSRF, a body-powered supernumerary robotic finger for hand augmentation that requires no electronic components.
 ## Project Overview
-This guide introduces the assembly and operation of the **Body-Powered Supernumerary Robotic Finger (bpSRF)**. The bpSRF is an lightweight device designed to enhance users' grasping capabilities by controlling an additional robotic finger using wrist movements. Unlike conventional SRFs, the bpSRF eliminates the need for electronic components and relies solely on body-powered mechanics. 
+This guide introduces the assembly and operation of the **Body-Powered Supernumerary Robotic Finger (bpSRF)**. The bpSRF is an lightweight device designed to enhance users' grasping capabilities by controlling an additional robotic finger using wrist movements. Unlike conventional SRFs, the bpSRF eliminates the need for electronic components and relies solely on body-powered mechanisms. 
 The device is particularly suited for helping people with hand impairments that limit finger but not wrist movements. It is also an excellent tool for healthy individuals seeking to explore additional degrees of freedom and novel hand grasping patterns. The bpSRF is easily manufacturable using 3D printing, making it a cost-effective and replicable solution.
 
 <p align="center">
   <img src="Figures/Fig0_cover_2.png" alt="The bpSRF"/>
 </p>
 
+Here are some examples on how it can be used:
+
+<p align="center">
+  <img src="Figures/applications_bpSRF.png" alt="The bpSRF" width=70% height=auto;/>
+</p>
 
 ## Folder structure
 The STL files are organized into folders as follows:
@@ -21,6 +26,7 @@ The STL files are organized into folders as follows:
     * Wrist buckle
     * Wrist posterior brace
     * Wrist anterior brace + driving link (in one part)
+    * Shaft collar
 - **Palm support**
     * Available in S, M and L sizes
 - **Cable tensioner**
@@ -39,7 +45,7 @@ Each folder contains the parts required for printing. Please print one piece fro
 Clone the repository or download the zip file to access all the STL files:
 
 ```bash
-git clone https://github.com/yourusername/Prosthetic-Finger.git
+git clone https://github.com/RenatoMio/bpSRF.git
 ```
 ## Parameters for 3D-printing
 
@@ -58,14 +64,23 @@ The recommended orientations for printing the parts are as follows:
 </p>
 
 * **Wrist components**
+
+Take into account that the wrist anterior brace and driving link have a support blocker (shaded gray cube) to prevent the generation of support structures within internal tunnels, which would be impossible to remove.
+
 <p align="center">
-  <img src="Figures/Wrist_print.png" alt="The bpSRF" width=40% height=auto;/>
+  <img src="Figures/Wrist_print_1.png" alt="The bpSRF" width=40% height=auto;/>
+</p>
+
+<p align="center">
+  <img src="Figures/Wrist_print_2.png" alt="The bpSRF" width=40% height=auto;/>
 </p>
 
 * **Palm support**
 <p align="center">
   <img src="Figures/Palm_print.png" alt="The bpSRF" width=30% height=auto;/>
 </p>
+
+A 3MF file containing the configurations and positions of the parts is available for rapid manufacturing on the Prusa MK3 printer. The print under the suggested parameters takes approximately 5.5 hours.
 
 ## Additional materials
 To assemble the bpSRF, the following additional tools and materials are required.
@@ -234,8 +249,18 @@ The fingertip is placed should be placed over the top of the finger’s distal p
   <img src="Figures/step6_silicon_final.png" alt="The bpSRF" width=50% height=auto;/>
 </p>
 
-That's it! You can start wearing and trying out the bpSRF. Some cable tensioning or tweaking might still be needed. Here are some ideas on how to use it:
+That's it! You can start wearing and trying out the bpSRF. Some cable tensioning or tweaking might still be needed.
 
-<p align="center">
-  <img src="Figures/applications_bpSRF.png" alt="The bpSRF" width=70% height=auto;/>
-</p>
+## License
+
+This project is licensed under the [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-nc-sa/4.0/).  
+You are free to:
+- Share: Copy and redistribute the material in any medium or format.
+- Adapt: Remix, transform, and build upon the material.  
+
+**Under the following terms**:
+- **Attribution**: You must give appropriate credit, provide a link to the license, and indicate if changes were made.
+- **NonCommercial**: You may not use the material for commercial purposes.
+- **ShareAlike**: If you remix, transform, or build upon the material, you must distribute your contributions under the same license as the original.
+
+For more details, see the full license text in the `LICENSE` file.

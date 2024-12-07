@@ -30,6 +30,12 @@ The STL files are organized into folders as follows:
 - **Palm support**
     * Available in S, M and L sizes
 - **Cable tensioner**
+- **Fingertip**
+    * Fingertip mold part 1
+    * Fingertip mold part 2
+    * Fingertip mold base
+
+These last fingertip files are optional. They can be used in case you wish to add a silicon rubber fingertip to the bpSRF. These parts were designed as a mold in which liquid silicon rubber can be poured. The resulting silicon rubber fingertip perfectly matches the shape of the bpSRFs distal phalanx.
 
 The following figure shows the different components of the bpSRF. Although not shown, the finger's inner link is inside the proximal phalanx and will be shown in the assembly guide.
 
@@ -233,20 +239,23 @@ The ⌀0.25mm rigid nylon wire that drives the finger flexion must be connected 
 
 ### Extra: Add a silicon rubber fingertip
 
-The silicone mix is prepared by mixing 6 grams of both components of the RTV-A20 silicone in a 50/50 ratio. Once mixed, these components will solidify in less than an hour. Note that other liquid silicone rubbers, such as those that use a catalyst for solidifying, would also work.
-
-<p align="center">
-  <img src="Figures/step6_silicon_1.png" alt="The bpSRF" width=50% height=auto;/>
-</p>
+The silicone mix is prepared by mixing around 6 grams of both components of the RTV-A20 silicone in a 50/50 ratio. Once mixed, these components will solidify in less than an hour. Note that other liquid silicone rubbers, such as those that use a catalyst for solidifying, would also work.
 
 Using a plastic stick or any similar tool, the silicone is stretched to remove air bubbles and then poured into the mold.
 
-
-After pouring the material, the parts are secured using safety seals and left to rest for 45 minutes. Finally, the mold is removed, and it is placed onto the finger of the bpSRF.
-
-The fingertip is placed should be placed over the top of the finger’s distal phalanx to add compliance and added friction. This helps prevent slipping during object grasping.
 <p align="center">
-  <img src="Figures/step6_silicon_final.png" alt="The bpSRF" width=50% height=auto;/>
+  <img src="Figures/step6_silicon_1.png" alt="The bpSRF" width=40% height=auto;/>
+</p>
+
+Both sides of the mold should enclose the mold base, shaped after the SRF's finger. After pouring the material, the parts are secured using zip ties and left to rest for 45 minutes. Finally, the mold is removed, and it is placed onto the finger of the bpSRF.
+
+<p align="center">
+  <img src="Figures/step6_silicon_2.png" alt="The bpSRF" width=50% height=auto;/>
+</p>
+
+After solidifying, the fingertip can be removed from the mold. The fingertip should be placed over the top of the finger’s distal phalanx to add compliance and added friction. This helps prevent slipping during object grasping.
+<p align="center">
+  <img src="Figures/step6_silicon_3.png" alt="The bpSRF" width=50% height=auto;/>
 </p>
 
 That's it! You can start wearing and trying out the bpSRF. Some cable tensioning or tweaking might still be needed.

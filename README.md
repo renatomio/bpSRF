@@ -9,15 +9,6 @@ The device is particularly suited for helping people with hand impairments that 
   <img src="Figures/Fig0_cover_2.png" alt="The bpSRF" width=20% height=auto;/>
 </p>
 
-The wrist controls the bpSRF by flexion-extension and abduction-adduction movements.
-<video src="Videos/bpSRF_flex-ext.mp4" width=70% height=auto controls></video>
-<video src="Videos/bpSRF_abd-add.mp4" width=70% height=auto controls></video>
-
-
-<video width="320" height="240" controls>
-  <source src="Videos/bpSRF_abd-add.mp4" type="video/mp4">
-</video>
-
 
 Here are some examples on how it can be used:
 

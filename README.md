@@ -260,6 +260,17 @@ After solidifying, the fingertip can be removed from the mold. The fingertip sho
 
 That's it! You can start wearing and trying out the bpSRF. Some cable tensioning or tweaking might still be needed.
 
+<!---
+## Contributors
+
+This project was a collaborative effort. Below is a summary of contributions:
+
+- **Renato Mio**: Project conceptualisation, co-developing of the design, experimental protocols design, and data analysis.
+- **Alyssa N. Maguina**: Co-developing of the design, conducting of experiments, and data analysis.
+- **Sebastián Caballa**: Mechanical validation tests and analyses.
+
+--->
+
 ## License
 
 This project is licensed under the [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-nc-sa/4.0/).  

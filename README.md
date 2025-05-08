@@ -13,6 +13,12 @@ The wrist controls the bpSRF by flexion-extension and abduction-adduction moveme
 <video src="Videos/bpSRF_flex-ext.mp4" width=70% height=auto controls></video>
 <video src="Videos/bpSRF_abd-add.mp4" width=70% height=auto controls></video>
 
+
+<video width="320" height="240" controls>
+  <source src="Videos/bpSRF_abd-add.mp4" type="video/mp4">
+</video>
+
+
 Here are some examples on how it can be used:
 
 <p align="center">

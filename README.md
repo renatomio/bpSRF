@@ -13,7 +13,7 @@ The device is particularly suited for helping people with hand impairments that 
 Here are some examples on how it can be used:
 
 <p align="center">
-  <img src="Figures/applications_bpSRF.png" alt="The bpSRF" width=70% height=auto;/>
+  <img src="Figures/bpSRF_DoFs.gif" alt="The bpSRF" width=70% height=auto;/>
 </p>
 
 ## Folder structure

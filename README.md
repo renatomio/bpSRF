@@ -1,7 +1,11 @@
 # bpSRF: An extra robotic finger powered by wrist movements
  Github site for the bpSRF, a body-powered supernumerary robotic finger for hand augmentation that requires no electronic components.
 ## Project Overview
-This guide introduces the assembly and operation of the **Body-Powered Supernumerary Robotic Finger (bpSRF)**. The bpSRF is an lightweight device designed to enhance users' grasping capabilities by controlling an additional robotic finger using wrist movements. Unlike conventional SRFs, the bpSRF eliminates the need for electronic components and relies solely on body-powered mechanisms. 
+This guide introduces the assembly and operation of the **Body-Powered Supernumerary Robotic Finger (bpSRF)**. The bpSRF is an lightweight device designed to enhance users' grasping capabilities by controlling an additional robotic finger using wrist movements. Unlike conventional SRFs, the bpSRF eliminates the need for electronic components and relies solely on body-powered mechanisms.
+
+<p align="center">
+  <img src="Figures/bpSRF_DoFs.gif" alt="The bpSRF" width=80% height=auto;/>
+</p>
 
 The device is particularly suited for helping people with hand impairments that limit finger but not wrist movements. It is also an excellent tool for healthy individuals seeking to explore additional degrees of freedom and novel hand grasping patterns. The bpSRF is easily manufacturable using 3D printing, making it a cost-effective and replicable solution.
 
@@ -13,7 +17,12 @@ The device is particularly suited for helping people with hand impairments that 
 Here are some examples on how it can be used:
 
 <p align="center">
-  <img src="Figures/bpSRF_DoFs.gif" alt="The bpSRF" width=70% height=auto;/>
+  <img src="Figures/applications_bpSRF.png" alt="The bpSRF" width=80% height=auto;/>
+</p>
+
+
+<p align="center">
+  <img src="Figures/bpSRF_towerbuilding.gif" alt="The bpSRF" width=80% height=auto;/>
 </p>
 
 ## Folder structure
@@ -261,6 +270,18 @@ After solidifying, the fingertip can be removed from the mold. The fingertip sho
 </p>
 
 That's it! You can start wearing and trying out the bpSRF. Some cable tensioning or tweaking might still be needed.
+
+Here you can see the basic donning:
+
+<p align="center">
+  <img src="Figures/bpSRF_donning.gif" alt="The bpSRF" width=80% height=auto;/>
+</p>
+
+And the cable tensioning procedure:
+
+<p align="center">
+  <img src="Figures/bpSRF_tensioning.gif" alt="The bpSRF" width=80% height=auto;/>
+</p>
 
 <!---
 ## Contributors
